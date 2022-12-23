@@ -1,0 +1,161 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-2-pFp {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.desktop-2-pFp .auto-group-zbyz-eVk {
+  box-sizing: border-box;
+  padding: 3.7rem 15.9rem 20.9rem 16.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-2-pFp .auto-group-zbyz-eVk .developers-71x {
+  margin: 0rem 0rem 7.9rem 4.6rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.495;
+  color: #000000;
+  font-family: Kanit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-pFp .auto-group-zbyz-eVk .auto-group-ukls-m6W {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-2-pFp .auto-group-zbyz-eVk .auto-group-ukls-m6W .auto-group-7vb8-6ea {
+  margin: 0rem 24.8rem 0.6rem 0rem;
+  width: 43.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 1.8rem #0040bd;
+  box-sizing: border-box;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-2-bg.png');
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.desktop-2-pFp .auto-group-zbyz-eVk .auto-group-ukls-m6W .auto-group-7vb8-6ea .auto-group-ven2-oot {
+  margin-bottom: 37.9rem;
+  width: 100%;
+  height: 7.4rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.495;
+  color: #ffffff;
+  font-family: Kanit, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #0040bd;
+  border-radius: 5.7rem;
+  flex-shrink: 0;
+}
+.desktop-2-pFp .auto-group-zbyz-eVk .auto-group-ukls-m6W .auto-group-7vb8-6ea .auto-group-mqfq-epW {
+  width: 100%;
+  height: 7.4rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.495;
+  color: #ffffff;
+  font-family: Kanit, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #0040bd;
+  border-radius: 5.7rem;
+  flex-shrink: 0;
+}
+.desktop-2-pFp .auto-group-zbyz-eVk .auto-group-ukls-m6W .auto-group-3kdg-FpJ {
+  margin-top: 0.6rem;
+  box-sizing: border-box;
+  padding-bottom: 0.6rem;
+  width: 43.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 1.8rem #0040bd;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-3-bg.png');
+  border-radius: 5.7rem;
+  flex-shrink: 0;
+}
+.desktop-2-pFp .auto-group-zbyz-eVk .auto-group-ukls-m6W .auto-group-3kdg-FpJ .auto-group-etzn-Ne2 {
+  margin-bottom: 37.3rem;
+  width: 100%;
+  height: 7.4rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.495;
+  color: #ffffff;
+  font-family: Kanit, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #0040bd;
+  border-radius: 5.7rem;
+  flex-shrink: 0;
+}
+.desktop-2-pFp .auto-group-zbyz-eVk .auto-group-ukls-m6W .auto-group-3kdg-FpJ .auto-group-22na-TvN {
+  width: 100%;
+  height: 7.4rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.495;
+  color: #ffffff;
+  font-family: Kanit, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #0040bd;
+  border-radius: 5.7rem;
+  flex-shrink: 0;
+}
+.desktop-2-pFp .auto-group-uedk-ACW {
+  width: 154.4rem;
+  height: 7rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.495;
+  color: #000000;
+  font-family: Kanit, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(180deg, rgba(132, 156, 201, 0) 0%, rgba(0, 64, 189, 0.7099999785) 100%);
+  flex-shrink: 0;
+}

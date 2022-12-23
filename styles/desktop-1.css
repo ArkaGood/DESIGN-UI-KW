@@ -1,0 +1,201 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 152.7rem;
+}.desktop-1-Cpv {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.desktop-1-Cpv .auto-group-6wp4-MbL {
+  width: 126.1rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 26.6rem;
+  top: 0;
+}
+.desktop-1-Cpv .auto-group-6wp4-MbL .subtract-53U {
+  width: 123.2rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-Cpv .auto-group-6wp4-MbL .img20221222205419-removebg-preview-1-KyQ {
+  width: 91.8rem;
+  height: 101.1rem;
+  position: absolute;
+  left: 34.3rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-Cpv .auto-group-6wp4-MbL .home-bR8 {
+  width: 6.6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 49.4rem;
+  top: 5.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.495;
+  color: #ffffff;
+  font-family: Kanit, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Cpv .auto-group-6wp4-MbL .about-nVc {
+  width: 8.1rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 62.8rem;
+  top: 5.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.495;
+  color: #ffffff;
+  font-family: Kanit, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Cpv .auto-group-6wp4-MbL .contact-EMc {
+  width: 10.4rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 75.6rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.495;
+  color: #ffffff;
+  font-family: Kanit, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Cpv .auto-group-6wp4-MbL .download1-removebg-preview-1-1-5d8 {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 89.9rem;
+  top: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-Cpv .auto-group-6wp4-MbL .download2-removebg-preview-1-wQS {
+  width: 2.4rem;
+  height: 2.3579rem;
+  position: absolute;
+  left: 97.1rem;
+  top: 6.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-Cpv .auto-group-6wp4-MbL .download3-removebg-preview-1-1-nfx {
+  width: 3.5rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 103.8rem;
+  top: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-Cpv .auto-group-6wp4-MbL .ellipse-1-sxJ {
+  width: 6.1rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 0;
+  top: 93.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-Cpv .auto-group-6wp4-MbL .arka-NeA {
+  width: 5.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 8.2rem;
+  top: 94.9rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.495;
+  color: #ffffff;
+  font-family: Kanit, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Cpv .item-01-Dug {
+  box-sizing: border-box;
+  padding-top: 13.2742rem;
+  width: 5.8rem;
+  height: 20.7rem;
+  position: absolute;
+  left: 32.1rem;
+  top: 17.4rem;
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+.desktop-1-Cpv .item-01-Dug .property-1default-FbU {
+  width: 12.1032rem;
+  height: 11.3062rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.495;
+  color: #ffffff;
+  font-family: Kanit, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Cpv .auto-group-pg3p-66J {
+  width: 22.4rem;
+  height: 94.3735rem;
+  position: absolute;
+  left: 1.2rem;
+  top: 3rem;
+}
+.desktop-1-Cpv .auto-group-pg3p-66J .auto-group-jlea-a1U {
+  margin: 0rem 0rem 4.9rem 1.5rem;
+  width: calc(100% - 1.5rem);
+  display: flex;
+  align-items: center;
+}
+.desktop-1-Cpv .auto-group-pg3p-66J .auto-group-jlea-a1U .ellipse-2-eGE {
+  margin-right: 2.5rem;
+  width: 6.1rem;
+  height: 6.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-Cpv .auto-group-pg3p-66J .auto-group-jlea-a1U .ar-company-MRY {
+  margin-top: 0.2rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.495;
+  color: #000000;
+  font-family: Kanit, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-Cpv .auto-group-pg3p-66J .union-EES {
+  margin: 0rem 0rem 23.7rem 2.5rem;
+  width: 4.1rem;
+  height: 4.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-Cpv .auto-group-pg3p-66J .screenshot2-1-Jk6 {
+  width: 17.5rem;
+  height: 55.0735rem;
+  object-fit: cover;
+  vertical-align: top;
+}
